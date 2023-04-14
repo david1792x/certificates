@@ -1,5 +1,5 @@
-# Certificates
-[Ver en español](readme_es.md)
+# Certificates - [Ver en español](readme_es.md)
+
 ## Machine Learning Specialization (Stanford & deeplearning.ai) [(.pdf)](machine_learning/machine_learning_specialization.pdf)
 Implementation of **supervised machine learning** models like linear and logistic regression, neural networks and decision trees and **unsupervised** models like clustering and anomaly detection, recommender systems and reinforcement learning.
 

@@ -1,4 +1,4 @@
-# Certificates
+# Certificados
 
 ## Machine Learning Specialization (Coursera, Stanford University & deeplearning.ai)
 Implementación práctica de modelos de **aprendizaje automático supervisado** como regresion lineal y logistica, redes neuronales y árboles de decisión y  modelos **no supervisados** como agrupamiento y deteccion de anomalias, sistemas de recomendación y aprendizaje por refuerzo.
